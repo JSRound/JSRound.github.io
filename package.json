@@ -1,0 +1,19 @@
+{
+  "name": "jsround.github.io",
+  "version": "1.0.0",
+  "description": "Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSRound/JSRound.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSRound/JSRound.github.io/issues"
+  },
+  "homepage": "https://github.com/JSRound/JSRound.github.io#index.html"
+}
