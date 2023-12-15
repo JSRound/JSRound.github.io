@@ -1,7 +1,7 @@
 ---
 layout: Home
 seo:
-  title: Web Developer
+  title: FullStack Developer
   description: Custom description for this page goes here
 ---
 
@@ -13,9 +13,9 @@ images:
     alt: my photo
 ---
 
-# <Typewriter>Carl Hanson</Typewriter>
+# <Typewriter>Jesus Redondo</Typewriter>
 
-# *Web Developer* <span>&</span> *Growth Consultant*
+# *FullStack Developer* <span>&</span> *Problem Solver*
 
 <Sep size={12} />
 
