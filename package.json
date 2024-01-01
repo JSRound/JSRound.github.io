@@ -12,7 +12,7 @@
   "engineStrict": true,
   "scripts": {
     "dev": "next-remote-watch ./content/**/*.md",
-    "export": "next export -o out",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint",
     "build": "next build",
