@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Carl Hanson Personal Site",
+    "title": "Jesus Redondo Personal Site",
     "home_page_url": "http://localhost:3000",
     "feed_url": "/home/runner/work/JSRound.github.io/JSRound.github.io/public/feed/projects/feed.json",
     "description": "A short description goes here.",
     "icon": "http://localhost:3000/favicon.ico",
     "author": {
-        "name": "Carl Hanson",
+        "name": "Jesus Redondo",
         "url": "https://twitter.com/handle"
     },
     "items": [
@@ -17,7 +17,7 @@
             "summary": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque drogon sit amenot.",
             "date_modified": "2022-11-21T00:00:00.000Z",
             "author": {
-                "name": "Carl Hanson",
+                "name": "Jesus Redondo",
                 "url": "https://twitter.com/handle"
             }
         },
@@ -28,7 +28,7 @@
             "summary": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.",
             "date_modified": "2022-11-21T00:00:00.000Z",
             "author": {
-                "name": "Carl Hanson",
+                "name": "Jesus Redondo",
                 "url": "https://twitter.com/handle"
             }
         },
@@ -39,7 +39,7 @@
             "summary": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.",
             "date_modified": "2022-11-21T00:00:00.000Z",
             "author": {
-                "name": "Carl Hanson",
+                "name": "Jesus Redondo",
                 "url": "https://twitter.com/handle"
             }
         },
@@ -50,7 +50,7 @@
             "summary": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.",
             "date_modified": "2022-11-22T00:00:00.000Z",
             "author": {
-                "name": "Carl Hanson",
+                "name": "Jesus Redondo",
                 "url": "https://twitter.com/handle"
             }
         }
