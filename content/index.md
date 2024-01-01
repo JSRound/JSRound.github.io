@@ -15,20 +15,17 @@ images:
 
 # <Typewriter>Jesus Redondo</Typewriter>
 
-# *FullStack Developer* <span>&</span> *Problem Solver*
+# *FullStack Developer*
 
 <Sep size={12} />
 
-Sometimes five Imprimaturs are seen together dialogue-wise in the
-piazza of one title-page, complimenting and ducking each to other with
-their shaven reverences, whether the author, who stands by in
-perplexity at the foot of his epistle, shall to the press or to the
-sponge.
-
-
+🃏 **Jack of all trades** is my second name.   
+I get along very well with databases, apps, servers, frontends, styles, testing, infrastructures, CI/CD, etc...   
+Keen on Maths, Statistic & Logic I am also very curious and don't like unsolved problems.  
+I lived for 3 exciting years in England & met people from all over the world, from Nepal to Egipt.
 
 ---achievements
-- number: 6+
+- number: 20+
   text: Years of experience
 - number: 60+
   text: Projects Completed
@@ -51,14 +48,14 @@ title: Trusted By
 list:
   - name: Company 1
     icon:
-      src: /icons/logo-1.svg
+      src: /icons/capgemini.svg
   - name: Company 2
     icon:
-      src: /icons/logo-3.svg
+      src: /icons/ft.svg
   - name: Company 3
     icon:
-      src: /icons/logo-3.svg
+      src: /icons/iag.svg
   - name: Company 4
     icon:
-      src: /icons/logo-4.svg
+      src: /icons/accenture.svg
 ---
